@@ -1,2 +1,2 @@
 # boot-people-crud
-Spring boot project - Simple Crud
+Spring boot project - Simple Crud.
